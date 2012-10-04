@@ -33,8 +33,15 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'prompt' \
+<<<<<<< HEAD
   'history-substring-search' \
   'syntax-highlighting'
+=======
+#  'osx' \
+#  'tmux' \
+   'syntax-highlighting' \
+   'history-substring-search'
+>>>>>>> parent of 4d71a7c... fixed order
 
 #
 # Editor
