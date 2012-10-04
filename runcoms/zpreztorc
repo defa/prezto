@@ -32,12 +32,9 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
-#  'osx' \
-#  'tmux' \
-   'syntax-highlighting' \
-   'history-substring-search' \
-   'prompt'
-
+  'prompt' \
+  'history-substring-search' \
+  'syntax-highlighting'
 
 #
 # Editor
