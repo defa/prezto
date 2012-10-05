@@ -2,11 +2,13 @@
 # A simple theme that displays relevant, contextual information.
 #
 # Authors:
-#   Sorin Ionescu <xodox.ionescu@gmail.com>
+#   Sorin Ionescu <sorin.ionescu@gmail.com>
 #
 # Screenshots:
 #   http://i.imgur.com/nBEEZ.png
 #
+# modified by pierre
+# just added username@host display in prompt
 
 # Load dependencies.
 pmodload 'helper'
