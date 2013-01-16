@@ -3,3 +3,5 @@
 modules/*/cache.zsh
 .DS_Store
 *.swp
+*.*~
+*~
